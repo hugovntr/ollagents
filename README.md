@@ -2,7 +2,7 @@
 
 [Ollama](https://ollama.com) powered AI Agent Framework
 
-Ollagents is a minimalistic python framework to build on top of Ollama's function calling feature, to build AI agents with the least amount of friction possible. 
+Ollagents is a minimalistic python framework to build AI Agents on top of Ollama's function calling feature with the least amount of friction possible. 
 No bloat / no learning curve. Simple, yet effective.
 
 ---
