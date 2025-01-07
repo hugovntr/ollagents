@@ -1,0 +1,20 @@
+[project]
+name = "ollagents"
+version = "0.1.0"
+description = "The simplest AI agents"
+readme = "README.md"
+authors = [
+  { name = "Hugo Ventura" }
+]
+requires-python = ">=3.13"
+dependencies = [
+  "ollama",
+]
+
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[tool.pyright]
+venvPath = "./"
+venv = ".venv"

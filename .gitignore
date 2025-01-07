@@ -1,0 +1,35 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info/
+*.egg
+eggs/
+.eggs/
+.python-version
+
+# IDE
+.idea/
+.vscode/
+
+# Dependencies
+uv.lock
+
+# Tests
+.pytest_cache/
+.cache/
+.coverage
+.coverage.*
+
+
+# Environment
+.venv/
+venv/
+.env
+env/
+
+# Misc
+.DS_Store
+*.log
