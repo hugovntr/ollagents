@@ -9,6 +9,9 @@ No bloat / no learning curve. Simple, yet effective.
 
 ## Getting Started
 
+### Prerequisite
+To use `ollagents` you firstly need to have [Ollama](https://ollama.com) installed on your computer
+
 ### Installation
 Start by installing `ollagents`:
 ```bash
