@@ -1,12 +1,12 @@
 [project]
 name = "ollagents"
-version = "0.1.0"
+version = "0.1.1"
 description = "The simplest AI agents"
 readme = "README.md"
 authors = [
   { name = "Hugo Ventura" }
 ]
-requires-python = ">=3.13"
+requires-python = ">=3.10"
 dependencies = [
   "ollama",
 ]
